@@ -1,0 +1,21 @@
+Todo List
+---------
+
+// loanRepayment.js code
+@todo Reorganize the code in a MOVE architecture format.
+@todo Switch to using Simplex method instead of a single payment algorithm to solve the payment plan.
+@todo Create a payment plan system.
+@todo Split classes into individual files.
+
+// documentation
+@todo Add documentation
+@todo Add examples
+
+// environment
+@todo make automatic build for these.
+	- Updated version information in loanRepayment.js
+	- Minimize loanRepayment.js to loanRepayment.min.js
+	- Updated documentation. Either for jsdocs or custom
+
+// testing
+@todo Make sure that there is 100% code coverage.
